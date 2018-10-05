@@ -6,6 +6,6 @@ Two fish functions:
 
 ## Requirements
 
-* jq
-* fzf
+* *jq*
+* *fzf*
 * Your Pinboard bookmarks in ~/Documents/Pinboard/Pinboard.json
